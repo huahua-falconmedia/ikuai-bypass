@@ -1,0 +1,71 @@
+# Overseas Common CDN Domains
+# For iKuai domain-based traffic splitting
+# Updated: 2026-08-25
+
+# Cloudflare
+cloudflare.com
+workers.dev
+pages.dev
+cloudflareinsights.com
+cdnjs.cloudflare.com
+
+# Amazon CloudFront
+cloudfront.net
+
+# Fastly
+fastly.com
+fastly.net
+fastlylb.net
+global.ssl.fastly.net
+global.prod.fastly.net
+freetls.fastly.net
+
+# Akamai
+akamai.com
+akamai.net
+akamaized.net
+akamaihd.net
+akamaiedge.net
+akamaitechnologies.com
+
+# jsDelivr
+jsdelivr.com
+jsdelivr.net
+cdn.jsdelivr.net
+fastly.jsdelivr.net
+
+# UNPKG
+unpkg.com
+
+# Azure CDN
+azureedge.net
+azurefd.net
+
+# Bunny CDN
+bunny.net
+b-cdn.net
+
+# KeyCDN
+keycdn.com
+kxcdn.com
+
+# Gcore
+gcore.com
+gcorelabs.com
+
+# StackPath
+stackpath.com
+stackpathcdn.com
+
+# QUIC.cloud
+quic.cloud
+
+# Imperva
+imperva.com
+incapdns.net
+incapsula.com
+
+# Google CDN / Static resources
+googleapis.com
+gstatic.com
+googleusercontent.com
